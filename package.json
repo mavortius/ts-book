@@ -1,0 +1,27 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "Project sample from Typescript book",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mavortius/ts-book.git"
+  },
+  "author": "Marcelo Martins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mavortius/ts-book/issues"
+  },
+  "homepage": "https://github.com/mavortius/ts-book#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^3.2.4"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ts-book",
+  "description": "Project sample from Typescript book",
+  "main": "index.html",
+  "authors": [
+    "Marcelo Martins"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mavortius/ts-book",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.9.1"
+  }
+}
